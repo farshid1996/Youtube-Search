@@ -1,0 +1,4 @@
+Install two packages using pip.
+
+1. pip install scrapetube
+2. pip install py-youtube
